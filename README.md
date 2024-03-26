@@ -33,3 +33,8 @@ The `.github/workflows/terraform.yml` file defines following key steps:
 - etc...
 
 ## Screenshot
+- ![access via lb](https://github.com/assessment10/IaC/assets/73170256/51ea168b-7a06-490d-9afa-8127a4462717)
+
+- ![pipeline details](https://github.com/assessment10/IaC/assets/73170256/74f66130-1bc9-4c72-85d5-f0d1ab2bc16c)
+
+- ![ecs details](https://github.com/assessment10/IaC/assets/73170256/ddfd595e-323b-4358-b080-c2179a5f9a72)

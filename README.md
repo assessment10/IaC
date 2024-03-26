@@ -28,4 +28,8 @@ The `.github/workflows/terraform.yml` file defines following key steps:
 - Terraform apply can be manual action.
 - Terraform code can be categorize as modules for big project.
 - Pipeline shall conduct scanning stage for Terraform source code.
+- Terraform state file shall consider S3 + Dynamo DB in real case.
+- GitHub need setup branch protection rules and conduct PR.
 - etc...
+
+## Screenshot

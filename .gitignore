@@ -21,3 +21,6 @@ terraform.rc
 
 # Ignore any .env files, as they usually contain sensitive data
 .env
+
+# Ingore screenshot
+**/screenshot/*

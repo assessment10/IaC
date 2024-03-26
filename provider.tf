@@ -5,6 +5,13 @@ terraform {
       version = "4.4.0"
     }
   }
+
+  backend "s3" {
+    bucket         = "terraform-state-lw"
+    key            = "terraform/state/file"
+    region         = "ap-southeast-1"
+    encrypt        = true
+  }
 }
 
 provider "aws" {

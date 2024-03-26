@@ -15,7 +15,7 @@ variable "az_count" {
 variable "default_tags" {
   type = map(any)
   default = {
-    "engineer" : "lingw"
+    "engineer" : "lingwei"
     "resource" : "devops"
   }
 }
